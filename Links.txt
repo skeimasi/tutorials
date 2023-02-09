@@ -2,3 +2,5 @@ https://theodorusclarence.com/blog/nextjs-fetch-method#demo
 https://nextjs.org/docs/advanced-features/debugging
 https://instamobile.io/android-development/generate-react-native-release-build-android/
 https://stackoverflow.com/questions/53239705/react-native-error-duplicate-resources-android
+https://wiki.archlinux.org/title/dm-crypt/Encrypting_an_entire_system
+https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
