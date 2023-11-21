@@ -5,3 +5,4 @@ https://stackoverflow.com/questions/53239705/react-native-error-duplicate-resour
 https://wiki.archlinux.org/title/dm-crypt/Encrypting_an_entire_system
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04
 https://code.visualstudio.com/docs/nodejs/browser-debugging
+https://stackoverflow.com/questions/2364147/how-to-get-just-one-file-from-another-branch
